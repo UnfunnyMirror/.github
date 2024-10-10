@@ -1,2 +1,2 @@
-## Description
-The goal is to write productive open source programs.
+# Description
+The goal of the organization is to create productive, high-quality, multi-platform open source software.
